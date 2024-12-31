@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developertamanna" alt="developertamanna" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic-Website**
+- 🔭 I’m currently working on **"Currently working on creating a dynamic website using React and Node.js, focusing on user authentication and real-time data updates."**
 
 - 📫 How to reach me **astamanna57@gmail.com**
 
