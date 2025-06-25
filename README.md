@@ -1,7 +1,8 @@
 <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" alt="banner" />
 
 <h1 align="center">Hi, I'm Tamanna Akter 👋</h1>
-<h3 align="center">Frontend Developer | Passionate about clean UI</h3>
+<h3 align="center">MERN Stack Developer | Passionate about building full-stack web applications</h3>
+
 
 ---
 
