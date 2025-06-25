@@ -1,64 +1,49 @@
-<h1 align="center">Hi 👋, I'm Tamanna Akter</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img src="https://i.postimg.cc/L4L6MN1p/Chat-GPT-Image-Jun-25-2025-11-54-53-AM.png" alt="banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developertamanna&label=Profile%20views&color=0e75b6&style=flat" alt="developertamanna" />
-</p>
+<h1 align="center">Hi, I'm Tamanna Akter 👋</h1>
+<h3 align="center">Frontend Developer | Passionate about clean UI</h3>
 
 ---
 
-### 🔭 About Me
-- 🌱 I’m currently pursuing BSc in Computer Science & Engineering at **Sylhet International University**.
-- 🔭 I’m currently working on:  
-  **A dynamic service & recipe website using React and Node.js with JWT-based authentication and real-time data updates.**
-- 📫 How to reach me: **astamanna57@gmail.com**
+### 🙋‍♀️ About Me
+I'm a Computer Science & Engineering student at **Sylhet International University**, currently focused on frontend technologies with hands-on practice in full stack projects using React, Node.js, and MongoDB.
 
 ---
 
-### 📫 Connect with me:
+### 🔭 Currently Working On
+- 🌐 A service and recipe-based MERN app using JWT
+- 💻 Exploring GitHub Actions and improving CI/CD knowledge
+- 📘 Learning deeper into **Next.js** and **Tailwind CSS**
+
+---
+
+### 🛠️ Skills
+
 <p align="left">
-  <a href="https://dev.to/developertamanna" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="developertamanna" height="30" width="40" />
-  </a>
-  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamanna akter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sathisultana911" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathisultana911" height="30" width="40" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 💻 Languages and Tools:
+### 🌐 Connect With Me
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=developertamanna&theme=radical" alt="Trophies" />
-  </a>
+  <a href="https://dev.to/developerTamanna"><img src="https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:astamanna57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&locale=en" alt="developertamanna-stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developertamanna&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developertamanna&layout=compact&theme=radical" />
 </p>
