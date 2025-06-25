@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/L4L6MN1p/Chat-GPT-Image-Jun-25-2025-11-54-53-AM.png" alt="banner" />
+<img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" alt="banner" />
 
 <h1 align="center">Hi, I'm Tamanna Akter 👋</h1>
 <h3 align="center">Frontend Developer | Passionate about clean UI</h3>
