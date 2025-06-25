@@ -34,15 +34,20 @@ I'm a Computer Science & Engineering student at **Sylhet International Universit
 ### 🌐 Connect With Me
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="blank">
+  <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
- - 📫 How to reach me *astamanna57@gmail.com*
-
-
-</a>
+  
+  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  
+  <a href="mailto:astamanna57@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <strong style="margin-left: 10px; color: black;">astamanna57@gmail.com</strong>
+  </a>
 </p>
+
 
 ---
 
