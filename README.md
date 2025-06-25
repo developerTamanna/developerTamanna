@@ -60,7 +60,6 @@ I build scalable, user-friendly web apps using **React**, **Node.js**, **Express
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developertamanna&theme=radical" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
