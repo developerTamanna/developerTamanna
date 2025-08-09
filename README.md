@@ -9,7 +9,7 @@
 <p align="center">
   📍 Sylhet, Bangladesh &nbsp;&nbsp;•&nbsp;&nbsp;  
   ✉️ <a href="mailto:astamanna57@gmail.com">astamanna57@gmail.com</a> &nbsp;&nbsp;•&nbsp;&nbsp;  
-  📞 +8801XXXXXXXXX
+  📞 +8801732572529
 </p>
 
 ---
@@ -64,6 +64,12 @@ Always eager to learn new technologies and solve real-world problems efficiently
     <strong style="color: black; margin-left: 8px;">astamanna57@gmail.com</strong>
   </a>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=developertamanna&theme=catppuccin_mocha&no-bg=true&margin-w=4)
 
 ---
 
