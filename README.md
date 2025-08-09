@@ -9,7 +9,7 @@
 <p align="center">
   📍 Sylhet, Bangladesh &nbsp;&nbsp;•&nbsp;&nbsp;  
   ✉️ <a href="mailto:astamanna57@gmail.com">astamanna57@gmail.com</a> &nbsp;&nbsp;•&nbsp;&nbsp;  
-  📞 +8801XXXXXXXXX
+  📞 +8801732572529
 </p>
 
 ---
