@@ -16,18 +16,17 @@
 
 ### 🙋‍♀️ About Me
 I am a passionate Computer Science & Engineering student at **Sylhet International University** specializing in MERN stack development.  
-I create scalable and user-friendly web applications using **React**, **Node.js**, **Express**, and **MongoDB**.  
-Constantly eager to learn and implement new technologies to solve real-world problems.
+I build scalable and user-friendly web applications using **React**, **Node.js**, **Express**, and **MongoDB**.  
+Always eager to learn new technologies and solve real-world problems efficiently.
 
 ---
 
 ### 🔭 Currently Working On
 - 🌐 Building a MERN-based service & recipe platform with JWT authentication and CRUD functionality.  
 - ⚙️ Automating deployment pipelines using **GitHub Actions** for CI/CD.  
-- 🚀 Exploring **Next.js**, **Tailwind CSS**, and advanced React patterns to enhance frontend skills.
+- 🚀 Exploring **Next.js**, **Tailwind CSS**, and advanced React patterns.
 
 ---
-
 
 ### 🛠️ Skills
 
@@ -46,7 +45,6 @@ Constantly eager to learn and implement new technologies to solve real-world pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
-
 
 ---
 
