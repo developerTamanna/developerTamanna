@@ -71,6 +71,7 @@ Always eager to learn new technologies and solve real-world problems efficiently
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=developertamanna&theme=catppuccin_mocha&no-bg=true&margin-w=4)
 
+
 ---
 
 ### 📊 GitHub Stats
