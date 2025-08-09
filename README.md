@@ -1,67 +1,78 @@
 <p align="center">
-  <!-- Banner -->
-  <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" alt="Tamanna Akter Banner" />
+  <!-- Banner Image -->
+  <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" alt="Tamanna Akter Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Tamanna Akter 👋</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
-  <!-- Location & Email -->
-  📍 Sylhet, Bangladesh&nbsp;&nbsp;•&nbsp;&nbsp;✉️ <a href="mailto:astamanna57@gmail.com">astamanna57@gmail.com</a>
+  📍 Sylhet, Bangladesh &nbsp;&nbsp;•&nbsp;&nbsp;  
+  ✉️ <a href="mailto:astamanna57@gmail.com">astamanna57@gmail.com</a> &nbsp;&nbsp;•&nbsp;&nbsp;  
+  📞 +8801XXXXXXXXX
 </p>
 
 ---
 
 ### 🙋‍♀️ About Me
-I'm a Computer Science &amp; Engineering student at **Sylhet International University** with a deep interest in MERN-stack development.  
-I build scalable, user-friendly web apps using **React**, **Node.js**, **Express**, and **MongoDB**, and I’m always excited to learn new technologies.
+I am a passionate Computer Science & Engineering student at **Sylhet International University** specializing in MERN stack development.  
+I create scalable and user-friendly web applications using **React**, **Node.js**, **Express**, and **MongoDB**.  
+Constantly eager to learn and implement new technologies to solve real-world problems.
 
 ---
 
 ### 🔭 Currently Working On
-- 🌐 A MERN service &amp; recipe platform (JWT auth + CRUD)  
-- ⚙️ Automating CI/CD with **GitHub Actions**  
-- 🚀 Exploring **Next.js**, **Tailwind CSS**, and advanced React patterns  
+- 🌐 Building a MERN-based service & recipe platform with JWT authentication and CRUD functionality.  
+- ⚙️ Automating deployment pipelines using **GitHub Actions** for CI/CD.  
+- 🚀 Exploring **Next.js**, **Tailwind CSS**, and advanced React patterns to enhance frontend skills.
 
 ---
 
+
 ### 🛠️ Skills
+
 <p align="left">
+  <strong>Frontend:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+</p>
+
+<p align="left">
+  <strong>Backend:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
+
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="_blank">
+  <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-
-  <a href="mailto:astamanna57@gmail.com" target="_blank" style="text-decoration: none;">
+  &nbsp;&nbsp;
+  <a href="mailto:astamanna57@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    <strong style="margin-left: 8px; color: black;">astamanna57@gmail.com</strong>
+    <strong style="color: black; margin-left: 8px;">astamanna57@gmail.com</strong>
   </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developertamanna&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developertamanna&layout=compact&theme=radical" alt="Top Languages" />
 </p>
