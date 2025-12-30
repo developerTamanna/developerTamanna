@@ -1,87 +1,103 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Tamanna+Akter!;MERN+Stack+Developer;Frontend+Focused+Web+Developer;Welcome+to+my+GitHub+Profile!">
+</h1>
+
 <p align="center">
-  <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" alt="Tamanna Akter Banner" width="100%" />
+  <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Tamanna Akter 👋</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<p align="center">
+  🌐 Web Developer | ⚛️ MERN Stack Enthusiast <br/>
+  📍 Sylhet, Bangladesh | 👩‍🎓 CSE Student
+</p>
 
 <p align="center">
-  📍 Sylhet, Bangladesh •  
-  ✉️ <a href="mailto:astamanna57@gmail.com">astamanna57@gmail.com</a> •  
-  📞 +8801732572529
+  <img src="https://komarev.com/ghpvc/?username=developertamanna&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I am a passionate Computer Science & Engineering student at **Sylhet International University** with a strong focus on **MERN stack development**.  
-I enjoy building scalable, clean, and user-friendly web applications using modern web technologies.
+I completed my **Diploma in Computer Science & Engineering**  
+from **Sylhet Polytechnic Institute** and currently studying  
+**BSc in CSE at Sylhet International University**.
 
-I believe in consistency, learning by doing, and improving one step at a time.
+I’m passionate about:
+- 🌐 Web Development (MERN Stack)
+- 🎯 Problem Solving & Clean Code
+- 🎨 UI-focused frontend design
+- 🚀 Learning modern web technologies
+
+I believe in consistency, patience, and learning by building real projects.
+
+</td>
+<td width="35%" align="center">
+  <img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="260px"/>
+  <br/>
+  <i>"Consistency over perfection."</i>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔭 Currently Working On
-
-- Building a MERN-based service & recipe platform with JWT authentication and full CRUD functionality  
-- Automating deployment pipelines using **GitHub Actions** (CI/CD)  
-- Exploring **Next.js**, **Tailwind CSS**, and advanced React patterns  
+## 🚀 What I’m Doing Now
+- 🔭 Building MERN-based web applications with authentication & CRUD
+- 🌱 Learning **React advanced patterns & Next.js**
+- 🎨 Improving UI using **Tailwind CSS**
+- ⚙️ Exploring deployment & CI/CD basics
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Backend
+### 🌐 Frontend Development
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
 </p>
 
----
-
-## 🌐 Connect With Me
-
+### 🧩 Backend & Database
 <p>
-  <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:astamanna57@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=developertamanna&theme=catppuccin_mocha&no-bg=true&margin-w=4)
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developertamanna&layout=compact&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=tokyonight"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertamanna&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=developertamanna&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
-  Consistency over perfection.
+⭐ If you like my work, consider giving a star to my repositories!
 </p>
