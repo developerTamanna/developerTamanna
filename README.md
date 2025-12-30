@@ -106,13 +106,14 @@ I use **C, C++, Python, JavaScript** for problem-solving.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=tokyonight"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertamanna&layout=compact&theme=tokyonight"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=tokyonight" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertamanna&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=developertamanna&theme=tokyonight"/>
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=developertamanna&theme=tokyonight" />
 </p>
+
 
 ---
 
