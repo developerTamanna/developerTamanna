@@ -118,5 +118,4 @@ I use **C, C++, Python, JavaScript** for problem-solving.
 ---
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
+⭐ Like what I do? Star my repositories to support me!</p>
