@@ -47,8 +47,7 @@ I believe in consistency, patience, and learning by building real projects.
 ---
 
 ## 🚀 What I’m Doing Now
-- 🔭 Building a user-friendly Daily Market Price Tracker dashboard using React, Next.js, TypeScript, and the MERN stack
-- 🌱 Learning **AI & Machine Learning**
+- 🔭 Currently working on a user-friendly Daily Market Price Tracker dashboard using React, Next.js, TypeScript, and MERN stack.
 - 🖌️ Improving UI/UX using **Figma**
 - 📚 Solving problems in Codeforces, VJudge
 
