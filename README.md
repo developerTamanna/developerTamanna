@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- Banner Image -->
   <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" alt="Tamanna Akter Banner" width="100%" />
 </p>
 
@@ -7,61 +6,61 @@
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
-  📍 Sylhet, Bangladesh &nbsp;&nbsp;•&nbsp;&nbsp;  
-  ✉️ <a href="mailto:astamanna57@gmail.com">astamanna57@gmail.com</a> &nbsp;&nbsp;•&nbsp;&nbsp;  
+  📍 Sylhet, Bangladesh •  
+  ✉️ <a href="mailto:astamanna57@gmail.com">astamanna57@gmail.com</a> •  
   📞 +8801732572529
 </p>
 
 ---
 
-### 🙋‍♀️ About Me
-I am a passionate Computer Science & Engineering student at **Sylhet International University** specializing in MERN stack development.  
-I build scalable and user-friendly web applications using **React**, **Node.js**, **Express**, and **MongoDB**.  
-Always eager to learn new technologies and solve real-world problems efficiently.
+## 🙋‍♀️ About Me
+
+I am a passionate Computer Science & Engineering student at **Sylhet International University** with a strong focus on **MERN stack development**.  
+I enjoy building scalable, clean, and user-friendly web applications using modern web technologies.
+
+I believe in consistency, learning by doing, and improving one step at a time.
 
 ---
 
-### 🔭 Currently Working On
-- 🌐 Building a MERN-based service & recipe platform with JWT authentication and CRUD functionality.  
-- ⚙️ Automating deployment pipelines using **GitHub Actions** for CI/CD.  
-- 🚀 Exploring **Next.js**, **Tailwind CSS**, and advanced React patterns.
+## 🔭 Currently Working On
+
+- Building a MERN-based service & recipe platform with JWT authentication and full CRUD functionality  
+- Automating deployment pipelines using **GitHub Actions** (CI/CD)  
+- Exploring **Next.js**, **Tailwind CSS**, and advanced React patterns  
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
-<p align="left">
-  <strong>Frontend:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
-<p align="left">
-  <strong>Backend:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:astamanna57@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    <strong style="color: black; margin-left: 8px;">astamanna57@gmail.com</strong>
+  <a href="mailto:astamanna57@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -71,15 +70,18 @@ Always eager to learn new technologies and solve real-world problems efficiently
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=developertamanna&theme=catppuccin_mocha&no-bg=true&margin-w=4)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developertamanna&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developertamanna&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developertamanna&layout=compact&theme=radical" alt="Top Languages" />
+  Consistency over perfection.
 </p>
-
-
