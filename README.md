@@ -46,10 +46,10 @@ I believe in consistency, patience, and learning by building real projects.
 ---
 
 ## 🚀 What I’m Doing Now
-- 🔭 Building MERN-based web applications with authentication & CRUD
-- 🌱 Learning **React advanced patterns & Next.js**
-- 🎨 Improving UI using **Tailwind CSS**
-- ⚙️ Exploring deployment & CI/CD basics
+- 🔭 Working on **Daily Market Price Tracker Platform** (React/Next.js/TypeScript + MERN)
+- 🌱 Learning **AI & Machine Learning**
+- 🖌️ Improving UI/UX using **Figma**
+- 📚 Solving problems in Codeforces, VJudge
 
 ---
 
