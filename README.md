@@ -38,7 +38,7 @@ I believe in consistency, patience, and learning by building real projects.
 <td width="35%" align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="260px"/>
   <br/>
-  <i>"Consistency over perfection."</i>
+  <i>"Keep learning, keep improving.."</i>
 </td>
 </tr>
 </table>
