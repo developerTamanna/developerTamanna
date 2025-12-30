@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/gcKLXhz7/Maroon-Modern-Software-Developer-Facebook-Cover-(1).png" width="100%"/>
+  <img src="https://i.ibb.co.com/gbFK4Tpq/Maroon-Modern-Software-Developer-Facebook-Cover-1.png" width="100%"/>
 </p>
 
 <p align="center">
