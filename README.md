@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developertamanna&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="[https://komarev.com/ghpvc/?username=developertamanna&label=Profile%20Views&color=0e75b6&style=flat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlteW5qdmp2ZWQ0YmV5bHYzYXM5bzd6bTFwd2U4c3BnOHN5ZzNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BeqTfpJYEu9sjyRAHA/giphy.gif)"/>
 </p>
 
 ---
