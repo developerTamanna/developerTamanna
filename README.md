@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" width="100%"/>
+  <img src="https://i.postimg.cc/gcKLXhz7/Maroon-Modern-Software-Developer-Facebook-Cover-(1).png" width="100%"/>
 </p>
 
 <p align="center">
