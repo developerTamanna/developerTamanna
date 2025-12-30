@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌐 Web Developer | ⚛️ MERN Stack Enthusiast <br/>
+  🌐 Web Developer | 🤖 AI/ML Learner <br/>
   📍 Sylhet, Bangladesh | 👩‍🎓 CSE Student
 </p>
 
@@ -27,10 +27,10 @@ from **Sylhet Polytechnic Institute** and currently studying
 **BSc in CSE at Sylhet International University**.
 
 I’m passionate about:
-- 🌐 Web Development (MERN Stack)
-- 🎯 Problem Solving & Clean Code
-- 🎨 UI-focused frontend design
-- 🚀 Learning modern web technologies
+- 🌐 Web Development (Frontend + Backend)
+- 🎯 Problem Solving
+- 🤖 Artificial Intelligence & Machine Learning
+- 🎨 UI/UX Design & Modern Web Experiences
 
 I believe in consistency, patience, and learning by building real projects.
 
