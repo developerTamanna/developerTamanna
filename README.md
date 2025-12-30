@@ -36,7 +36,7 @@ I believe in consistency, patience, and learning by building real projects.
 
 </td>
 <td width="35%" align="center">
-  <img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="260px"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="260px"/>
   <br/>
   <i>"Consistency over perfection."</i>
 </td>
@@ -82,6 +82,15 @@ I believe in consistency, patience, and learning by building real projects.
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
 </p>
+
+---
+
+## 🧠 Competitive Programming
+
+I use **C, C++, Python, JavaScript** for problem-solving.
+
+🔗 Codeforces: https://codeforces.com/profile/tamannaspp  
+🔗 beecrowd (URI): https://judge.beecrowd.com/en/profile/1132874  
 
 ---
 
