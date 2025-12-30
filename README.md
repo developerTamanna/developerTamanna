@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Tamanna+Akter!;MERN+Stack+Developer;Frontend+Focused+Web+Developer;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Tamanna+Akter!;Software+Engineer;Frontend+%7C+MERN+Stack+%7C+AI+Learner;Welcome+to+my+GitHub+Profile!+💙">
+
 </h1>
 
 <p align="center">
