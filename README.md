@@ -23,17 +23,11 @@
 <tr>
 <td width="65%" valign="top">
 
-I completed my **Diploma in Computer Science & Engineering**  
-from **Sylhet Polytechnic Institute** and currently studying  
-**BSc in CSE at Sylhet International University**.
+I am Tamanna Akter, a Software Engineer with strong experience in Frontend and MERN stack development. I specialize in building clean, responsive, and user-friendly UI, with a strong focus on performance and maintainability.
 
-I’m passionate about:
-- 🌐 Web Development (Frontend + Backend)
-- 🎯 Problem Solving
-- 🤖 Artificial Intelligence & Machine Learning
-- 🎨 UI/UX Design & Modern Web Experiences
+I have strong problem-solving skills with a solid foundation in Data Structures and Algorithms (DSA). Alongside web development, I am actively exploring Machine Learning to expand my technical expertise.
 
-I believe in consistency, patience, and learning by building real projects.
+I completed my Diploma in Computer Science & Engineering at Sylhet Polytechnic Institute (SPI), where I built a strong foundation in DSA and problem solving. Currently, I am pursuing my BSc in CSE at Sylhet International University (SIU), with a focus on Artificial Intelligence & Machine Learning, while continuing to grow as a web developer.
 
 </td>
 <td width="35%" align="center">
